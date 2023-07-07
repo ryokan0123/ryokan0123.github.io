@@ -1,0 +1,10 @@
+title: [Ryokan Ri]
+logo: /assets/profile.jpg
+description: [On the day of my Ph.D. graduation ceremony.]
+is_user_page: true
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+# github : [metadata]
