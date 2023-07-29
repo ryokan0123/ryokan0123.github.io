@@ -53,3 +53,9 @@ Links: &emsp;
 - M. Rikters, R. Ri, T. Li, and T. Nakazawa, "Document-aligned Japanese-English Conversation Parallel Corpus", in *Proceedings of the Fifth Conference on Machine Translation*, 2020. [[anthology]](https://www.aclweb.org/anthology/2020.wmt-1.74)
 - M. Rikters, R. Ri, T. Li, and T. Nakazawa, "Designing the Business Conversation Corpus", in *Proceedings of the 6th Workshop on Asian Translation*, 2019. [[anthology]](https://www.aclweb.org/anthology/D19-5204/) [[arXiv]](https://arxiv.org/abs/2008.01940)
 - R. Ri and Y. Tsuruoka, "What do Multilingual Neural Machine Translation Models Learn about Typology?", in The First Workshop on Typology for Polyglot NLP, 2019. [[PDF]](https://typology-and-nlp.github.io/2019/assets/2019/papers/6.pdf)
+
+
+### Book
+
+- I. Yamada, M. Suzuki, K. Yamada, R. Ri, "大規模言語モデル入門 (Introduction to Large Language Models)", Gijutsu-Hyohron Co., Ltd., 2023. [[Amazon]](https://www.amazon.co.jp/dp/4297136333?ref_=cm_sw_r_cp_ud_dp_V5GSQQDC95V10924G94S)
+
