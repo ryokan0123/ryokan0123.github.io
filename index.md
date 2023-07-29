@@ -36,7 +36,7 @@ Links: &emsp;
 - [Language Resource Award](https://www.anlp.jp/nlp2021/award.html) from The Association for Natural Language Processing in NLP 2021 (Japanese domestic conference).
 
 
-## Research
+## Publication
 
 ### International Conferences / Journals
 
@@ -53,4 +53,3 @@ Links: &emsp;
 - M. Rikters, R. Ri, T. Li, and T. Nakazawa, "Document-aligned Japanese-English Conversation Parallel Corpus", in *Proceedings of the Fifth Conference on Machine Translation*, 2020. [[anthology]](https://www.aclweb.org/anthology/2020.wmt-1.74)
 - M. Rikters, R. Ri, T. Li, and T. Nakazawa, "Designing the Business Conversation Corpus", in *Proceedings of the 6th Workshop on Asian Translation*, 2019. [[anthology]](https://www.aclweb.org/anthology/D19-5204/) [[arXiv]](https://arxiv.org/abs/2008.01940)
 - R. Ri and Y. Tsuruoka, "What do Multilingual Neural Machine Translation Models Learn about Typology?", in The First Workshop on Typology for Polyglot NLP, 2019. [[PDF]](https://typology-and-nlp.github.io/2019/assets/2019/papers/6.pdf)
-
