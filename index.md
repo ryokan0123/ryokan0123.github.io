@@ -41,7 +41,7 @@ Links: &emsp;
 ### International Conferences / Journals
 
 - I. Yamada and R. Ri, "LEIA: Facilitating Cross-Lingual Knowledge Transfer in Language Models with Entity-based Data Augmentation", 2024. [[arxiv]](https://arxiv.org/abs/2402.11485)
-- R. Ri, R. Ueda, J. Naradowsky, "Emergent Communication with Attention", in *Proceedings of the Annual Meeting of the Cognitive Science Society*, 2023. [[arxiv]](https://arxiv.org/abs/2305.10920)
+- R. Ri, R. Ueda, J. Naradowsky, "Emergent Communication with Attention", in *Proceedings of the Annual Meeting of the Cognitive Science Society*, 2023. [[eScholarship]](https://escholarship.org/uc/item/7dg8r8zk) [[arxiv]](https://arxiv.org/abs/2305.10920)
 - R. Ri and Y. Tsuruoka, "Pretraining with Artificial Language: Studying Transferable Knowledge in Language Models", in *Proceedings of the 60th ACL (long)*, 2022. [[anthology]](https://aclanthology.org/2022.acl-long.504/) [[arxiv]](https://arxiv.org/abs/2203.10326/)
 - R. Ri, I. Yamada, and Y. Tsuruoka, "mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models", in *Proceedings of the 60th ACL (long)*, 2022. [[anthology]](https://aclanthology.org/2022.acl-long.505/) [[arxiv]](https://arxiv.org/abs/2110.08151/)
 - S. Nishikawa, R. Ri, I. Yamada, Y. Tsuruoka, and I. Echizen, "EASE: Entity-Aware Contrastive Learning of Sentence Embedding", in *Proceedings of NAACL*, 2022. [[anthology]](https://aclanthology.org/2022.naacl-main.284/) [[arxiv]](https://arxiv.org/abs/2205.04260/)
