@@ -22,7 +22,7 @@ Links: &emsp;
 
 #### LLM Books
 
-![llm-book](assets/llm-book-1-2.png)
+<img src="assets/llm-book-1-2.png" width="200"></a>
 
 I have co-authored books ("Introduction to Large Language Models") on Large Language Models (LLMs) for Japanese practitioners.
 These books cover the basics of LLMs with [sample code](https://github.com/ghmagazine/llm-book) and practical tips for training and fine-tuning LLMs.
@@ -34,7 +34,7 @@ This was a result of team effort at [SB Intuitions](https://www.sbintuitions.co.
 
 #### FlexEval: LLM Evaluation Tool
 
-![FlexEval](assets/flexeval.png)
+<img src="assets/flexeval.png" width="200"></a>
 
 While many LLM evaluation libraries are available, they cover different domains and methods, and switching between them is cumbersome.
 I am developing a unified evaluation tool, [FlexEval](https://github.com/sbintuitions/flexeval), that can be used to evaluate LLMs with various evaluation tasks, metrics, and methods, ranging from few-shot evaluation to LLM-as-a-judge approaches.
