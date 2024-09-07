@@ -16,11 +16,11 @@ Links: &emsp;
 [GitHub](https://github.com/ryokan0123)
 
 
-## Research/Engineering Interests
+## Research and Engineering Focus
 
 ### Large Language Models
 
-### LLM Books
+#### LLM Books
 
 ![llm-book](assets/llm-book-1-2.png)
 
