@@ -46,7 +46,7 @@ My Ph.D. research focused on the commonalities across languages captured by neur
 
 #### ["Pretraining with Artificial Language: Studying Transferable Knowledge in Language Models"](https://aclanthology.org/2022.acl-long.504/), R. Ri and Y. Tsuruoka.
 
-<img src="assets/artificial_language.png" width="350">
+<img src="assets/artificial_language.png" width="450">
 
 In this work, we investigate the transferability of knowledge acquired through language modeling.
 Natural language can be characterized by various linguistic or statistical properties at different levels, which makes it challenging to study which properties are transferable across different languages.
@@ -56,7 +56,7 @@ We found that statistical dependencies are key to transferability.
 
 #### ["mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models"](https://aclanthology.org/2022.acl-long.505/), R. Ri, I. Yamada, and Y. Tsuruoka.
 
-<img src="assets/mLUKE.png" width="350">
+<img src="assets/mLUKE.png" width="450">
 
 We developed a multilingual encoder-style language model, mLUKE, that utilizes information about entities (Wikipedia articles) shared across languages.
 We demonstrate that including entity information in pre-training improves the performance of cross-lingual transfer tasks.
