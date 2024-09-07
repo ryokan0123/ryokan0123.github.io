@@ -22,7 +22,7 @@ Links: &emsp;
 
 #### LLM Books
 
-<img src="assets/llm-book-1-2.png" width="200"></a>
+<img src="assets/llm-book-1-2.png" width="250">
 
 I have co-authored books ("Introduction to Large Language Models") on Large Language Models (LLMs) for Japanese practitioners.
 These books cover the basics of LLMs with [sample code](https://github.com/ghmagazine/llm-book) and practical tips for training and fine-tuning LLMs.
@@ -34,7 +34,7 @@ This was a result of team effort at [SB Intuitions](https://www.sbintuitions.co.
 
 #### FlexEval: LLM Evaluation Tool
 
-<img src="assets/flexeval.png" width="200"></a>
+<img src="assets/flexeval.png" width="250">
 
 While many LLM evaluation libraries are available, they cover different domains and methods, and switching between them is cumbersome.
 I am developing a unified evaluation tool, [FlexEval](https://github.com/sbintuitions/flexeval), that can be used to evaluate LLMs with various evaluation tasks, metrics, and methods, ranging from few-shot evaluation to LLM-as-a-judge approaches.
@@ -46,7 +46,7 @@ My Ph.D. research focused on the commonalities across languages captured by neur
 
 #### ["Pretraining with Artificial Language: Studying Transferable Knowledge in Language Models"](https://aclanthology.org/2022.acl-long.504/), R. Ri and Y. Tsuruoka.
 
-![artificial_language](assets/artificial_language.png)
+<img src="assets/artificial_language.png" width="350">
 
 In this work, we investigate the transferability of knowledge acquired through language modeling.
 Natural language can be characterized by various linguistic or statistical properties at different levels, which makes it challenging to study which properties are transferable across different languages.
@@ -56,7 +56,7 @@ We found that statistical dependencies are key to transferability.
 
 #### ["mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models"](https://aclanthology.org/2022.acl-long.505/), R. Ri, I. Yamada, and Y. Tsuruoka.
 
-![mLUKE](assets/mLUKE.png)
+<img src="assets/mLUKE.png" width="350">
 
 We developed a multilingual encoder-style language model, mLUKE, that utilizes information about entities (Wikipedia articles) shared across languages.
 We demonstrate that including entity information in pre-training improves the performance of cross-lingual transfer tasks.
