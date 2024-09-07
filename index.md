@@ -1,14 +1,14 @@
 ## About Me
+**Ryokan Ri (李 凌寒), Ph.D.**
 
-I am Ryokan Ri (李 凌寒), a Senior Research Engineer at [SB Intuitions](https://www.sbintuitions.co.jp/), specializing in the development and application of large language models (LLMs).
+A Senior Research Engineer at [SB Intuitions](https://www.sbintuitions.co.jp/), specializing in the development and application of large language models (LLMs).
+
 My primary research interest is in **Natural Language Processing (NLP)**.
-Some of my research interests include:
+Some of my specific research interests include:
 
-- Multilingual representation learning
-- Machine translation
-- Intersection of linguistics and machine learning.
-
-In my spare time, I enjoy cooking 🍳 and playing music 🎸.
+- Large language models (LLMs)
+- Multilingual models and cross-lingual transfer
+- The intersection of linguistics and machine learning
 
 Links: &emsp;
 [Google Scholar](https://scholar.google.co.jp/citations?user=z9is5FAAAAAJ) &emsp;
@@ -49,10 +49,9 @@ My Ph.D. research focused on the commonalities across languages captured by neur
 <img src="assets/artificial_language.png" width="450">
 
 In this work, we investigate the transferability of knowledge acquired through language modeling.
-Natural language can be characterized by various linguistic or statistical properties at different levels, which makes it challenging to study which properties are transferable across different languages.
-
-We designed an artificial language with a controlled set of linguistic/statistical properties, pretrained a neural network on it, and transferred it to natural languages.
-We found that statistical dependencies are key to transferability.
+Natural language can be characterized by various linguistic or statistical properties at different levels, making it difficult to study which are transferable.
+We created an artificial language with controlled properties, pretrained a neural network on it, and transferred it to natural languages.
+Our findings show that simple statistical dependencies are key to transferability.
 
 #### ["mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models"](https://aclanthology.org/2022.acl-long.505/), R. Ri, I. Yamada, and Y. Tsuruoka.
 
@@ -86,6 +85,8 @@ We demonstrate that including entity information in pre-training improves the pe
 - [Microsoft Research PhD Fellowship 2021 Nomination Award](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/eleven-phd-students-are-awarded-the-2021-microsoft-research-asia-fellowship-award/).
 - [Language Resource Award](https://www.anlp.jp/nlp2021/award.html) from The Association for Natural Language Processing in NLP 2021 (Japanese domestic conference).
 
+## Publications
+
 ### International Conferences / Journals
 
 For the full publication list, please refer to [Google Scholar](https://scholar.google.co.jp/citations?user=z9is5FAAAAAJ).
@@ -118,3 +119,7 @@ For the full publication list, please refer to [Google Scholar](https://scholar.
 - C (Intermediate)
 - Java (Basic)
 - Kotlin (Basic)
+
+## Fun Facts
+- ⛴ Licensed as a boat captain in Japan.
+- 🎥 Run [a YouTube channel](https://www.youtube.com/@kotolabo) with over 100,000 subscribers, focusing on linguistics and language in general.
