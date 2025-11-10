@@ -1,7 +1,8 @@
 ## About Me
 **Ryokan Ri (李 凌寒), Ph.D.**
 
-A Senior Research Engineer at [SB Intuitions](https://www.sbintuitions.co.jp/), specializing in the development and application of large language models (LLMs).
+A Research Engineer at [Google DeepMind](https://deepmind.google/), specializing in the development and application of large language models (LLMs).
+ormerly at SB Intuitions, focusing on developing Japanese-centric models.
 
 My primary research interest is in **Natural Language Processing (NLP)**.
 Some of my specific research interests include:
