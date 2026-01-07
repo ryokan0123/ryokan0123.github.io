@@ -61,6 +61,14 @@ Our findings show that simple statistical dependencies are key to transferabilit
 We developed a multilingual encoder-style language model, mLUKE, that utilizes information about entities (Wikipedia articles) shared across languages.
 We demonstrate that including entity information in pre-training improves the performance of cross-lingual transfer tasks.
 
+## Working Experience
+
+- November 2025 - : Research Engineer at [Google DeepMind](https://deepmind.google/)
+- April 2023 - November 2025: Research Engineer at [SB Intuitions](https://www.sbintuitions.co.jp/) ← [LY Corporation](https://www.lycorp.co.jp/en/) ← LINE
+  - Transitioned through company merger and internal transfer
+- April 2020 - March 2023: Research intern at [Studio Ousia](https://www.ousia.jp/en/) in Tokyo, Japan
+- July 2020 - September 2020: Research intern at [IBM Research - Ireland](https://www.research.ibm.com/labs/ireland/) (Remote)
+
 ## Education
 
 - April 2018 - : Tsuruoka Lab., Graduate School of Information Science and Technology, The University of Tokyo
@@ -70,15 +78,6 @@ We demonstrate that including entity information in pre-training improves the pe
   - April 2015 - March 2018: Bachelor of Arts (linguistics)
   - June 2016 - June 2017: The University of Sydney (Student Exchange)
   - April 2013 - March 2015: Natural Science Ⅰ
-
-## Working Experience
-
-- April 2023 - Present: NLP Research Engineer
-  - Transferred internally to [SB Intuitions](https://www.sbintuitions.co.jp/) (July 1, 2024)
-  - Transitioned to [LY Corporation](https://www.lycorp.co.jp/en/) through company merger (October 1, 2023)
-  - Started at LINE Corporation
-- April 2020 - March 2023: Research intern at [Studio Ousia](https://www.ousia.jp/en/) in Tokyo, Japan
-- July 2020 - September 2020: Research intern at [IBM Research - Ireland](https://www.research.ibm.com/labs/ireland/) (Remote)
 
 ## Awards and Honors
 - [Research Paper Award](https://www.anlp.jp/award/ronbun.html) from The Association for Natural Language Processing, 2023.
